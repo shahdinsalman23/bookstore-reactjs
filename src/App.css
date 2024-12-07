@@ -2392,6 +2392,10 @@ nav.sidemenu {
   .signup-innerbanner {
     padding: 100px 0px;
   }
+  
+  footer-copyright p {
+    text-align: center;
+  }
 
 }
 
