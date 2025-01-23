@@ -69,6 +69,3 @@ Follow these steps to get the project up and running on your local machine:
 └── README.md                 # Project documentation
 ```
 
-### **1. Clone the Repository**
-```bash
-git clone https://github.com/your-username/your-repo-name.git
